@@ -11,11 +11,11 @@ The SDG Chosen is SDG 3, Good Health and Well-Being.
 
 | Name | Roles |
 | --- | --- |
-| Hazim  | uh  |
-| Lucius  | idk  |
-| Jun Han | i forgor |
-| Grace | WIP |
-| Wei Xi | insert role here|
+| Hazim  | Developer |
+| Lucious  | UML Designer/System Analyst |
+| Junhan | UI/UX Designer |
+| Grace | Scrum Master |
+| Wei Xi | Product Owner |
 
 # Project Description
 
