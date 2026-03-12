@@ -4,7 +4,7 @@ This folder contains the documentation for the Testing phase of the Software Dev
 
 It mainly shows how the testing process were carried and what improvements can be made, along with the feedbacks that are obtained.
 
-The testing method used is google forms, as it is an informal form that was mianly shared to friends it is not fully up to standard but it remainds a useful method nonetheless.
+In addition to that, there was an additional testing method that is used which is google forms, as it is an informal form that was mianly shared to friends it is not fully up to standard but it remainds a useful method nonetheless.
 
 https://forms.gle/iNMZAewG8mbHMc6u9
 
