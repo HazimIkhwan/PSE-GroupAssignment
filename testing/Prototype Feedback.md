@@ -1,4 +1,30 @@
-Overall from the results obtained from the google forms, the prototype feedback has been attained and can be summarised.
+# Testing Method
+The prototype has been tested by interacting with the clickable screens of the Figma prototype. The testing has been done to ensure that each button and navigation element directs the user to the appropriate screen. This has enabled the team to assess the logical flow and ease of use of the application. The testing has been done on the following navigation flows within the system:
+
+Scenario 1: User Login Navigation
+- User clicks the "Sign In" button
+- System navigates to the Home Dashboard
+
+Scenario 2: Health Tracking Navigation
+- User clicks the "Track" button in the navigation bar
+- System navigates to the Health Tracking screen
+
+Scenario 3: Appointment Booking Navigation
+- User clicks the "Book" section
+- System displays the doctor selection and appointment booking interface
+  
+Scenario 4: Appointment Cancellation
+- User selects an appointment from the appointment history
+- User clicks the cancel button
+- System navigates to the cancellation confirmation screen
+
+Scenario 5: Rewards Navigation
+- User clicks the Rewards tab
+- System displays achievements and voucher redemption options
+
+# Google Forms results
+
+ From the tesults obtained from the google forms, there was additional prototype feedback has been attained and can be summarised.
 
 As the form's questions are based around the Product Vision document's proposed values and goals, the performance of the prototype can therefore be measured.
 
