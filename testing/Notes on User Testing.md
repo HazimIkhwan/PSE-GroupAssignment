@@ -1,4 +1,12 @@
-These are the notes that are obtained after the feedback and the users' tests.
+# Testing Notes
+
+The testing results showed that the flow of navigation in the application was as it should be. All buttons and navigations were directing users to the right screens. The interface was also found to be simple and easy to understand, which is essential since it is targeting students at the university.
+
+However, there are improvements that can be made to the application. For example, more interactive features can be incorporated into the system using a full system development environment. Other improvements can be made, including more detailed notifications and health tracking.
+
+All in all, the prototype has successfully shown us how the ‘UniHealth’ application can be used and has given us a visualization of the system design. 
+
+# Google Form Notes
 
 Some key points include:
 
